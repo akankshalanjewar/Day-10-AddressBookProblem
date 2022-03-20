@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrQeeRyU7dThhTQuuHZa1XSuW8y6UEzpxt9nbgfTdgtognkgj3eOmN6aJhU+sNtEo0Yp3uFuJthV24TBYDTNtg==",
+  "success": true,
+  "projectFilePath": "C:\\Bridgelabz\\Day-10-AddresssBook\\UC-CreatePersonDetails\\UC-CreatePersonDetails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
